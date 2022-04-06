@@ -36,7 +36,7 @@ Backend software developer specializing in Ruby on Rails and PostgreSQL. Lifelon
 </p>
 <div align="center">
 <a target="_blank"href="https://www.linkedin.com/in/sam-liam-smith/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="mailto:samlsmith424@gmail.com?subject=Message%20From%20my%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  
+ <a href="mailto:samlsmith424@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <hr/>
 <p align="center">
