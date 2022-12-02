@@ -6,7 +6,7 @@
 </h3>
 
 <div align="center">
-Backend software developer specializing in Ruby on Rails and PostgreSQL. Lifelong learner and former hospitality manager.
+Software engineer specializing in React Native and Ruby on Rails. Lifelong learner and former hospitality manager.
 </div>
 <hr/>
 
