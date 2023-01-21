@@ -19,20 +19,16 @@ Software engineer specializing in React Native and Ruby on Rails. Lifelong learn
 <img src="https://img.shields.io/badge/Ruby%20on%20Rails-D14836.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white" />
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img alt="graphql" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/OOP%20-201E84.svg?&style=for-the-badge&logo=OOP&logoColor=white" />
-<img src="https://img.shields.io/badge/TDD%20-2A42D0.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
-
-
 </p>
 <p align="center">
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />  
-<img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white" />  
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />    
 <img atl="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/ActiveRecord%20-201E84.svg?&style=for-the-badge&logo=ActiveRecord&logoColor=white" />
 <img src="https://img.shields.io/badge/rspec%20-2A42D0.svg?&style=for-the-badge&logo=rspec&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVC%20-25D366.svg?&style=for-the-badge&logo=MVC&logoColor=white" />
+<img src="https://img.shields.io/badge/MVC%20-25D366.svg?&style=for-the-badge&logo=MVC&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20-7119C2.svg?&style=for-the-badge&logo=REST&logoColor=white" />
+<img src="https://img.shields.io/badge/TDD%20-2A42D0.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
 </p>
 <hr/>
 
